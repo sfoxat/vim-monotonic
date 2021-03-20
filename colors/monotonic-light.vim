@@ -27,13 +27,13 @@ hi Type         ctermbg=None   ctermfg=233  cterm=Bold
 hi Special      ctermbg=None   ctermfg=None cterm=None
 hi Underlined   ctermbg=None   ctermfg=None cterm=Underline
 hi Ignore       ctermbg=None   ctermfg=None cterm=None
-hi Error        ctermbg=Red    ctermfg=None cterm=None
+hi Error        ctermbg=Red    ctermfg=231  cterm=None
 hi Todo         ctermbg=Yellow ctermfg=232  cterm=None
 hi ColorColumn  ctermbg=254    ctermfg=232  cterm=None
 hi Cursor       ctermbg=None   ctermfg=None cterm=Reverse
 hi CursorLine   ctermbg=254    ctermfg=None cterm=None
 hi Directory    ctermbg=231    ctermfg=232  cterm=Underline
-hi ErrorMsg     ctermbg=Red    ctermfg=None cterm=None
+hi ErrorMsg     ctermbg=Red    ctermfg=231  cterm=None
 hi VertSplit    ctermbg=249    ctermfg=249  cterm=None
 hi Folded       ctermbg=None   ctermfg=None cterm=None
 hi FoldColumn   ctermbg=None   ctermfg=245  cterm=None
@@ -56,4 +56,4 @@ hi TabLine      ctermbg=249    ctermfg=232  cterm=None
 hi TabLineFill  ctermbg=249    ctermfg=232  cterm=None
 hi TabLineSel   ctermbg=231    ctermfg=232  cterm=Bold
 hi Title        ctermbg=None   ctermfg=None cterm=Bold
-hi WarningMsg   ctermbg=Red    ctermfg=None cterm=None
+hi WarningMsg   ctermbg=Red    ctermfg=231  cterm=None

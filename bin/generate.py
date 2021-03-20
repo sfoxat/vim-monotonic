@@ -92,13 +92,13 @@ LIGHT_THEME = [
     ("Special", N, N, N),
     ("Underlined", N, N, "Underline"),
     ("Ignore", N, N, N),
-    ("Error", "error", N, N),
+    ("Error", "error", "background", N),
     ("Todo", "warning", "foreground", N),
     ("ColorColumn", "standback", "foreground", N),
     ("Cursor", N, N, "Reverse"),
     ("CursorLine", "standback", N, N),
     ("Directory", "background", "foreground", "Underline"),
-    ("ErrorMsg", "error", N, N),
+    ("ErrorMsg", "error", "background", N),
     ("VertSplit", "chrome", "chrome", N),
     ("Folded", N, N, N),
     ("FoldColumn", N, "comment", N),
@@ -121,7 +121,7 @@ LIGHT_THEME = [
     ("TabLineFill", "chrome", "foreground", N),
     ("TabLineSel", "background", "foreground", "Bold"),
     ("Title", N, N, "Bold"),
-    ("WarningMsg", "error", N, N),
+    ("WarningMsg", "error", "background", N),
 ]
 
 
