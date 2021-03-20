@@ -106,7 +106,7 @@ LIGHT_THEME = [
     ("IncSearch", "background", "highlight", "Reverse"),
     ("LineNr", N, "comment", N),
     ("CursorLineNr", N, "comment", "Bold"),
-    ("MatchParen", "background", "highlight", "Reverse"),
+    ("MatchParen", "background", "foreground", "Underline"),
     ("Pmenu", "standback", "highlight", N),
     ("PmenuSel", "standback", "highlight", "Reverse"),
     ("PmenuSbar", "standback", "standback", N),

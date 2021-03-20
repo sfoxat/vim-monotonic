@@ -41,7 +41,7 @@ hi SignColumn   ctermbg=None   ctermfg=Red  cterm=None
 hi IncSearch    ctermbg=231    ctermfg=024  cterm=Reverse
 hi LineNr       ctermbg=None   ctermfg=245  cterm=None
 hi CursorLineNr ctermbg=None   ctermfg=245  cterm=Bold
-hi MatchParen   ctermbg=231    ctermfg=024  cterm=Reverse
+hi MatchParen   ctermbg=231    ctermfg=232  cterm=Underline
 hi Pmenu        ctermbg=254    ctermfg=024  cterm=None
 hi PmenuSel     ctermbg=254    ctermfg=024  cterm=Reverse
 hi PmenuSbar    ctermbg=254    ctermfg=254  cterm=None
