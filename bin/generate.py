@@ -67,7 +67,7 @@ DARK_THEME = [
 LIGHT_PALETTE = {
     "background": "231",
     "foreground": "232",
-    "string": "Blue",
+    "string": "031",
     "highlight": "024",
     "comment": "245",
     "error": "Red",

@@ -18,8 +18,8 @@ hi Normal       ctermbg=231    ctermfg=232  cterm=None
 hi Visual       ctermbg=231    ctermfg=024  cterm=Reverse
 hi Comment      ctermbg=None   ctermfg=245  cterm=None
 hi Constant     ctermbg=None   ctermfg=None cterm=None
-hi String       ctermbg=None   ctermfg=Blue cterm=None
-hi Character    ctermbg=None   ctermfg=Blue cterm=None
+hi String       ctermbg=None   ctermfg=031  cterm=None
+hi Character    ctermbg=None   ctermfg=031  cterm=None
 hi Identifier   ctermbg=None   ctermfg=None cterm=None
 hi Statement    ctermbg=None   ctermfg=233  cterm=Bold
 hi PreProc      ctermbg=None   ctermfg=233  cterm=Bold
