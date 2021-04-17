@@ -124,6 +124,7 @@ LIGHT_THEME = [
     ("TabLineSel", "background", "foreground", "Bold"),
     ("Title", N, N, "Bold"),
     ("WarningMsg", "warning", "background", N),
+    ("Question", "background", "Green", N),
 ]
 
 
