@@ -125,6 +125,8 @@ LIGHT_THEME = [
     ("Title", N, N, "Bold"),
     ("WarningMsg", "warning", "background", N),
     ("Question", "background", "Green", N),
+    ("ALEErrorSign", "background", "error", N),
+    ("ALEWarningSign", "background", "warning", N),
 ]
 
 
