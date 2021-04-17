@@ -57,7 +57,7 @@ hi TabLine        ctermbg=249    ctermfg=232    cterm=None
 hi TabLineFill    ctermbg=249    ctermfg=232    cterm=None
 hi TabLineSel     ctermbg=231    ctermfg=232    cterm=Bold
 hi Title          ctermbg=None   ctermfg=None   cterm=Bold
-hi WarningMsg     ctermbg=Yellow ctermfg=231    cterm=None
+hi WarningMsg     ctermbg=231    ctermfg=Yellow cterm=None
 hi Question       ctermbg=231    ctermfg=Green  cterm=None
 hi ALEErrorSign   ctermbg=231    ctermfg=Red    cterm=Bold
 hi ALEWarningSign ctermbg=231    ctermfg=Yellow cterm=Bold

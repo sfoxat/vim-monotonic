@@ -123,7 +123,7 @@ LIGHT_THEME = [
     ("TabLineFill", "chrome", "foreground", N),
     ("TabLineSel", "background", "foreground", "Bold"),
     ("Title", N, N, "Bold"),
-    ("WarningMsg", "warning", "background", N),
+    ("WarningMsg", "background", "warning", N),
     ("Question", "background", "Green", N),
     ("ALEErrorSign", "background", "error", "Bold"),
     ("ALEWarningSign", "background", "warning", "Bold"),
