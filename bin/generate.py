@@ -95,7 +95,7 @@ LIGHT_THEME = [
     ("Underlined", N, N, "Underline"),
     ("Ignore", N, N, N),
     ("Error", "error", "background", N),
-    ("Todo", "warning", "foreground", N),
+    ("Todo", "warning", "background", N),
     ("ColorColumn", "standback", "foreground", N),
     ("Cursor", N, N, "Reverse"),
     ("CursorLine", "standback", N, N),
@@ -116,14 +116,14 @@ LIGHT_THEME = [
     ("Search", "highlight", "background", N),
     ("SpecialKey", N, "highlight", N),
     ("SpellBad", "error", "background", N),
-    ("SpellCap", "warning", "foreground", N),
+    ("SpellCap", "warning", "background", N),
     ("StatusLine", "chrome", "foreground", "Bold"),
     ("StatusLineNC", "chrome", "very_standout", N),
     ("TabLine", "chrome", "foreground", N),
     ("TabLineFill", "chrome", "foreground", N),
     ("TabLineSel", "background", "foreground", "Bold"),
     ("Title", N, N, "Bold"),
-    ("WarningMsg", "error", "background", N),
+    ("WarningMsg", "warning", "background", N),
 ]
 
 

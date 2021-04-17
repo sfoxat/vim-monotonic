@@ -29,7 +29,7 @@ hi Special      ctermbg=None   ctermfg=None cterm=None
 hi Underlined   ctermbg=None   ctermfg=None cterm=Underline
 hi Ignore       ctermbg=None   ctermfg=None cterm=None
 hi Error        ctermbg=Red    ctermfg=231  cterm=None
-hi Todo         ctermbg=Yellow ctermfg=232  cterm=None
+hi Todo         ctermbg=Yellow ctermfg=231  cterm=None
 hi ColorColumn  ctermbg=254    ctermfg=232  cterm=None
 hi Cursor       ctermbg=None   ctermfg=None cterm=Reverse
 hi CursorLine   ctermbg=254    ctermfg=None cterm=None
@@ -50,11 +50,11 @@ hi PmenuThumb   ctermbg=249    ctermfg=249  cterm=None
 hi Search       ctermbg=024    ctermfg=231  cterm=None
 hi SpecialKey   ctermbg=None   ctermfg=024  cterm=None
 hi SpellBad     ctermbg=Red    ctermfg=231  cterm=None
-hi SpellCap     ctermbg=Yellow ctermfg=232  cterm=None
+hi SpellCap     ctermbg=Yellow ctermfg=231  cterm=None
 hi StatusLine   ctermbg=249    ctermfg=232  cterm=Bold
 hi StatusLineNC ctermbg=249    ctermfg=000  cterm=None
 hi TabLine      ctermbg=249    ctermfg=232  cterm=None
 hi TabLineFill  ctermbg=249    ctermfg=232  cterm=None
 hi TabLineSel   ctermbg=231    ctermfg=232  cterm=Bold
 hi Title        ctermbg=None   ctermfg=None cterm=Bold
-hi WarningMsg   ctermbg=Red    ctermfg=231  cterm=None
+hi WarningMsg   ctermbg=Yellow ctermfg=231  cterm=None
