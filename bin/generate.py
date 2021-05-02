@@ -76,7 +76,8 @@ LIGHT_PALETTE = {
     "chrome": "249",
     "standback": "254",
     "standout": "233",
-    "very_standout": "000"
+    "very_standout": "000",
+    "cursor": "209"
 }
 
 LIGHT_THEME = [
@@ -108,7 +109,7 @@ LIGHT_THEME = [
     ("IncSearch", "background", "highlight", "Reverse"),
     ("LineNr", N, "comment", N),
     ("CursorLineNr", N, "comment", "Bold"),
-    ("MatchParen", "background", "foreground", "Underline"),
+    ("MatchParen", "background", "cursor", "Bold"),
     ("Pmenu", "standback", "highlight", N),
     ("PmenuSel", "standback", "highlight", "Reverse"),
     ("PmenuSbar", "standback", "standback", N),
