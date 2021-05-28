@@ -131,7 +131,6 @@ LIGHT_THEME = [
     ("CocRustChainingHint", N, "comment", N),
 ]
 
-
 def to_rule(palette, group, background, foreground, term):
     """Returns a tuple containing the a highlight function call and its arguments."""
     return (
