@@ -84,6 +84,7 @@ LIGHT_THEME = [
     ("Normal", "background", "foreground", N),
     ("Visual", "background", "highlight", "Reverse"),
     ("Comment", N, "comment", N),
+    ("SpecialComment", N, "comment", N),
     ("Constant", N, N, N),
     ("String", N, "string", N),
     ("Structure", N, "string", N),
@@ -126,8 +127,8 @@ LIGHT_THEME = [
     ("Title", N, N, "Bold"),
     ("WarningMsg", "background", "warning", N),
     ("Question", "background", "Green", N),
-    ("ALEErrorSign", "background", "error", "Bold"),
-    ("ALEWarningSign", "background", "warning", "Bold"),
+    ("CocRustTypeHint", N, "comment", N),
+    ("CocRustChainingHint", N, "comment", N),
 ]
 
 
